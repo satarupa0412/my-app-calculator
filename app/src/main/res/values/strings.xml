@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="clear">CLEAR</string>
+    <string name="removeOneChar"><![CDATA[<=]]></string>
+    <string name="error_message">No Character</string>
+    <string name="blank" />
+</resources>
